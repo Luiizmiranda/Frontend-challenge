@@ -33,7 +33,7 @@ git clone https://github.com/Luiizmiranda/Frontend-challenge.git
 
 2. Go to the project folder
 ```bash
-cd challenge-frontend
+cd frontend-challenge
 cd capputeeno
 ```
 
